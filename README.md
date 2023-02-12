@@ -1,1 +1,1 @@
-* ## [My Portfolio Website](https://aghalaryusublu.github.io/MyPortfolio/)
+* ## [My Portfolio Website](https://aghalar.me/)
